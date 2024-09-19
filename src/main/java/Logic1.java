@@ -286,7 +286,7 @@ public class Logic1
           }
         }
         else{
-          return false;
+          return true;
         }
       }
     }
